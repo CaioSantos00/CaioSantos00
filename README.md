@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Me chamo Caio dos Santos 👋</h1>
+<h1 align="center">Olá! Sou o Caio dos Santos 👋</h1>
 
 <div align="center"> 
   <a href = "mailto:caiossantos4321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

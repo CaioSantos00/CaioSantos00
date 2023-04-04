@@ -11,6 +11,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=CaioSantos00&theme=tokyonight&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSantos00&layout=compact&theme=tokyonight)](https://github.com/CaioSantos00)
+
 </div>
 
 <div align="center">

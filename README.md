@@ -8,14 +8,6 @@
 <br>
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=CaioSantos00&theme=tokyonight&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSantos00&layout=compact&theme=tokyonight)](https://github.com/CaioSantos00)
-
-</div>
-
-<div align="center">
 <h2>Linguagens e Ferramentas mais usadas:</h2>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>

@@ -6,6 +6,12 @@
   
 </div>
 <br>
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=CaioSantos00&theme=tokyonight&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+</div>
 
 <div align="center">
 <h2>Linguagens e Ferramentas mais usadas:</h2>

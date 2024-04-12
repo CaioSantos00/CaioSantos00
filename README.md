@@ -24,5 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="40" alt="react logo"  />
   <img src="https://external-preview.redd.it/using-server-actions-to-call-external-apis-v0-MuEOlgtvQK_mgrDAPYeiWV_pmoe6ZOz2HsIg7wgs-tc.jpg?auto=webp&s=0e60718df72aec55f7e2a23363d725bb032a626c" height="40" alt="Next"/>
+  <img src="https://vetores.org/wp-content/uploads/typescript.png" height="40" alt="Typescript" />
   
 </div>
